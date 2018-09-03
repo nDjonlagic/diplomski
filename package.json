@@ -22,7 +22,6 @@
     "grunt-sync": "0.5.2",
     "include-all": "^1.0.0",
     "method-override": "^3.0.0",
-    "parsejson": "0.0.3",
     "rc": "1.0.1",
     "sails": "~0.12.13",
     "sails-disk": "~0.10.9",
